@@ -1,4 +1,3 @@
-
 <!--
 **kwaksj329/kwaksj329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=kwaksj329&show_icons=true&theme=buefy"/>
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SujongKwak&fontSize=50&animation=fadeIn&fontAlignY=40)
-<h3 align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SujongKwak&fontSize=50&animation=fadeIn&fontAlignY=40">
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -60,5 +60,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2Fhit-counter&count_bg=%23FF3C80DE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer">
+</p>
