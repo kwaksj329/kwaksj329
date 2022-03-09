@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=SujongKwak&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=SujongKwak&fontSize=90&animation=fadeIn&fontAlignY=40)
+<h3 align="center">
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2Fhit-counter&count_bg=%23FF3C80DE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer)
