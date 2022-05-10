@@ -45,13 +45,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/xoxristine/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xoxristine/"/></a>&nbsp
-  <a href="mailto:kwaksj329@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kwaksj329@gmial.com"/></a>
-</p>
-<br>
-
 <p align="center">
 <a href="https://solved.ac/kwaksj329"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwaksj329" width="40%"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwaksj329&layout=compact" width="42%"></a>
