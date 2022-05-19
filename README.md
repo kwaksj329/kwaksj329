@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SujongKwak&fontSize=50&animation=fadeIn&fontAlignY=40">
 </p>
 
-<h3 align="center">👩🏻‍🌾 Tech Stack 🍎</h3>
+<h2 align="center">👩🏻‍🌾 Tech Stack 🍎</h2>
 
 <br>
 
