@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <img align="center" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
 <img align="center" alt="Terminal" width="25px" src="./img/terminal-light.svg" />
 
-</p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwaksj329%2Fhit-counter&count_bg=%23FF3C80DE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
-<br>
+</p>
 
 <!--
 
