@@ -12,46 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=kwaksj329&show_icons=true&theme=buefy"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&reversal=false&textBg=false&desc=Sujong%20Kwak&fontSize=20"/>
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SujongKwak&fontSize=50&animation=fadeIn&fontAlignY=40">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&reversal=false&textBg=false&desc=Sujong%20Kwak&fontSize=20">
 </p>
 
-<h2 align="center">👩🏻‍🌾 Tech Stack 🍎</h2>
+### History📝
+- ☁️  [9oormthon Univ](https://9oormthon.university/)</b> 2024.02 ~ <br />
+- 📚 [Cemware Internship](https://www.cemware.com/)</b> 2023.09 ~ 2023.12<br />
+- 🎓 [Leibniz University Hannover](https://www.uni-hannover.de/en/)</b> 2023.02 ~ 2023.08<br />
+- 💻 [SW Mastero 13th](https://github.com/kwaksj329/BetweenUs_FE)</b> 2022.04 ~ 2022.11<br />
+- 🎓 [Ajou University](https://www.ajou.ac.kr/)</b> 2019.03 ~ <br />
 
-<br>
+### Tech Stack👩🏻‍🌾
 
-<p align="center">
+<p align="left">
 
-<img align="center" alt="raspberrypi" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:20px;" />
-<img align="center" alt="cplusplus" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;" />
-<img align="center" alt="c" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:20px;" />
-<img align="center" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
-<img align="center" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:20px;" />
-<img align="center" alt="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:20px;"  />
-<img align="center" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
-<img align="center" alt="PyTorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:20px;" />
-<img align="center" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
-<img align="center" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
-<br>
-<br>
-<img align="center" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
-<img align="center" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
-<img align="center" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:20px;" />
-<img align="center" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
-<img align="center" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
-<img align="center" alt="spring" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:20px;" />
-<img align="center" alt="AndroidStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:20px;" />
-<img align="center" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;" />
-<img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
-<img align="center" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
-<img align="center" alt="Terminal" width="35px" src="./img/terminal-light.svg" />
+<img align="center" alt="raspberrypi" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:20px;" />
+<img align="center" alt="cplusplus" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;" />
+<img align="center" alt="c" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:20px;" />
+<img align="center" alt="python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
+<img align="center" alt="linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:20px;" />
+<img align="center" alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:20px;"  />
+<img align="center" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
+<img align="center" alt="PyTorch" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:20px;" />
+<img align="center" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
+<img align="center" alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
+<img align="center" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
+<img align="center" alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+<img align="center" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:20px;" />
+<img align="center" alt="docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
+<img align="center" alt="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
+<img align="center" alt="spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:20px;" />
+<img align="center" alt="AndroidStudio" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:20px;" />
+<img align="center" alt="java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;" />
+<img align="center" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
+<img align="center" alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;" />
+<img align="center" alt="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
+<img align="center" alt="Terminal" width="25px" src="./img/terminal-light.svg" />
 
 </p>
 
 <br>
+
+<!--
 
 <p align="center">
 <a href="https://solved.ac/kwaksj329"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwaksj329" width="40%"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,3 +73,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer">
 </p>
+
+-->
