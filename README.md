@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### History📝
 - ☁️  [9oormthon Univ 3rd Ajou Univ leader](https://9oormthon.university/)</b> 2024.06 ~ <br />
 - 👾 [CMC 15th](https://cmc.makeus.in/)</b> 2024.05 ~ <br />
-- ☁️  [9oormthon Univ 2nd](https://9oormthon.university/)</b> 2024.02 ~ <br />
+- ☁️  [9oormthon Univ 2nd](https://9oormthon.university/)</b> 2024.02 ~ 2024.06 <br />
 - 📚 [Cemware Internship](https://www.cemware.com/)</b> 2023.09 ~ 2023.12<br />
 - 🎓 [Leibniz University Hannover](https://www.uni-hannover.de/en/)</b> 2023.02 ~ 2023.08<br />
 - 💻 [SW Mastero 13th](https://github.com/kwaksj329/BetweenUs_FE)</b> 2022.04 ~ 2022.11<br />
