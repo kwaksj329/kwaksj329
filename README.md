@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 ### History📝
+- 🌳 [Naver Boostcamp 9 Membership](https://boostcamp.connect.or.kr/)</b> 2024.08 ~ <br />
+- 🌳 [Naver Boostcamp 9 Basic & Challenge](https://boostcamp.connect.or.kr/)</b> 2024.06 ~ 2024.08 <br />
 - ☁️  [9oormthon Univ 3rd Ajou Univ leader](https://9oormthon.university/)</b> 2024.06 ~ <br />
 - 👾 [CMC 15th](https://cmc.makeus.in/)</b> 2024.05 ~ <br />
 - ☁️  [9oormthon Univ 2nd](https://9oormthon.university/)</b> 2024.02 ~ 2024.06 <br />
