@@ -30,6 +30,18 @@ Here are some ideas to get you started:
 - 💻 [SW Mastero 13th](https://github.com/kwaksj329/BetweenUs_FE)</b> 2022.04 ~ 2022.11<br />
 - 🎓 [Ajou University](https://www.ajou.ac.kr/)</b> 2019.03 ~ <br />
 
+---
+
+### Awards 🏆
+- 🥇 [Central MakeUs Challenge 15기 대상](https://github.com/BLink-Org/BLink-client)<br />
+- 🥇 [한국스마트정보교육원 24년 상반기 SW개발공모전 최우수상](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_24_FE)<br />
+
+---
+
+### Product 📲
+- 👾 [B.Link iOS - App Store](https://apps.apple.com/us/app/b-link/id6630368733)<br />
+- 👾 [B.Link Android - Play Google](https://play.google.com/store/apps/details?id=com.blinkapplication&pli=1)<br />
+
 ### Tech Stack👩🏻‍🌾
 
 <p align="left">
