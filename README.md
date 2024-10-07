@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌳 [Naver Boostcamp 9 Membership](https://boostcamp.connect.or.kr/)</b> 2024.08 ~ <br />
 - 🌳 [Naver Boostcamp 9 Basic & Challenge](https://boostcamp.connect.or.kr/)</b> 2024.06 ~ 2024.08 <br />
 - ☁️  [9oormthon Univ 3rd Ajou Univ leader](https://9oormthon.university/)</b> 2024.06 ~ <br />
-- 👾 [CMC 15th](https://cmc.makeus.in/)</b> 2024.05 ~ <br />
+- 👾 [CMC 15th](https://cmc.makeus.in/)</b> 2024.05 ~ 2024.09 <br />
 - ☁️  [9oormthon Univ 2nd](https://9oormthon.university/)</b> 2024.02 ~ 2024.06 <br />
 - 📚 [Cemware Internship](https://www.cemware.com/)</b> 2023.09 ~ 2023.12<br />
 - 🎓 [Leibniz University Hannover](https://www.uni-hannover.de/en/)</b> 2023.02 ~ 2023.08<br />
