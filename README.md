@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ### History📝
-- 🧢 [Toss Securities Frontend Developer Assistant]()</b> 2025.02 ~ <br />
+- 🧢 [Toss Securities Frontend Developer Assistant](https://tossinvest.com/)</b> 2025.02 ~ <br />
 - 🌳 [Naver Boostcamp 9 Membership](https://boostcamp.connect.or.kr/)</b> 2024.08 ~ 2025.02 <br />
 - 🌳 [Naver Boostcamp 9 Basic & Challenge](https://boostcamp.connect.or.kr/)</b> 2024.06 ~ 2024.08 <br />
 - ☁️  [9oormthon Univ 3rd Ajou Univ leader](https://9oormthon.university/)</b> 2024.06 ~ 2024.12 <br />
