@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 ### History📝
-- 🌳 [Naver Boostcamp 9 Membership](https://boostcamp.connect.or.kr/)</b> 2024.08 ~ <br />
+- 🧢 [Toss Securities Frontend Developer Assistant]()</b> 2025.02 ~ <br />
+- 🌳 [Naver Boostcamp 9 Membership](https://boostcamp.connect.or.kr/)</b> 2024.08 ~ 2025.02 <br />
 - 🌳 [Naver Boostcamp 9 Basic & Challenge](https://boostcamp.connect.or.kr/)</b> 2024.06 ~ 2024.08 <br />
 - ☁️  [9oormthon Univ 3rd Ajou Univ leader](https://9oormthon.university/)</b> 2024.06 ~ 2024.12 <br />
 - 👾 [CMC 15th](https://cmc.makeus.in/)</b> 2024.05 ~ 2024.09 <br />
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 - 📚 [Cemware Internship](https://www.cemware.com/)</b> 2023.09 ~ 2023.12<br />
 - 🎓 [Leibniz University Hannover](https://www.uni-hannover.de/en/)</b> 2023.02 ~ 2023.08<br />
 - 💻 [SW Mastero 13th](https://github.com/kwaksj329/BetweenUs_FE)</b> 2022.04 ~ 2022.11<br />
-- 🎓 [Ajou University](https://www.ajou.ac.kr/)</b> 2019.03 ~ <br />
+- 🎓 [Ajou University](https://www.ajou.ac.kr/)</b> 2019.03 ~ 2025.02 <br />
 
 
 ### Awards 🏆
